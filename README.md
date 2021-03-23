@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on ...
 - -----machine learning------
 - 📫 How to reach me ...
-- wiwayde35@gmail.com
+- wilwayde35@gmail.com
 
 <!---
 Somil-Jain35/Somil-Jain35 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
